@@ -15,6 +15,7 @@
 [![Discord Chat](https://img.shields.io/discord/448698263508615178.svg)](https://discord.gg/RBtyM6u)
 
 # Aurelia 2
+#ertgdrgd
 
 This is the Aurelia 2 monorepo, containing core and plugin packages, examples, benchmarks, and documentation for the upcoming major version of everybody's favorite modern JavaScript framework, [Aurelia](http://www.aurelia.io/).
 
